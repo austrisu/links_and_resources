@@ -6,4 +6,5 @@
     - https://github.com/stacksmashing/tamarin-firmware
     - https://www.youtube.com/watch?v=7p_njRMqzrY
     - [Defcon presentation](https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/stacksmashing%20-%20The%20hitchhackers%20guide%20to%20iPhone%20Lightning%20%20%20JTAG%20hacking.pdf)
+    - https://hackaday.com/2022/04/11/need-a-jtag-adapter-use-your-pico/
 
